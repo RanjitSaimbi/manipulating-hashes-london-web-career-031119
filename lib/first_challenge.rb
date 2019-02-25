@@ -1,5 +1,4 @@
 def first_challenge
-  binding.pry
   contacts = {
     "Jon Snow" => {
       name: "Jon",
