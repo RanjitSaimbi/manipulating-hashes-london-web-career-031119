@@ -5,8 +5,8 @@ def second_challenge
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-binding.pry 
-groceries.values 
+
+groceries.values.pry  
   
 
 end
